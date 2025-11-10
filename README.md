@@ -14,6 +14,7 @@ Just **copy and paste this file directly** into your repo — GitHub will render
 ![GitHub last commit](https://img.shields.io/github/last-commit/RohitJoshi10/GettingStartingWithSpringBoot?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-OpenSource-blue?style=for-the-badge)
 
+
 ---
 
 ## 🧰 Tech Stack  
@@ -29,6 +30,7 @@ Just **copy and paste this file directly** into your repo — GitHub will render
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
 ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven)
+
 
 ---
 
